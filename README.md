@@ -1,11 +1,11 @@
 # portfolio-dx-ai
-데이터 기반 DX/AI 서비스 개선 컨설팅 포트폴리오
-portfolio-dx-ai/
+
 ├── README.md
 ├── project01_parking_demand_analysis/
 ├── project02_superconductor_modeling/
 ├── project03_ai_secretary/
 └── project04_rag_learning_assistant/
+
 # DX/AI Service Improvement Portfolio
 
 데이터 기반 문제 정의, 생성형 AI 서비스 구현, RAG 기반 학습도우미, AI 업무 자동화 프로젝트를 정리한 포트폴리오 저장소입니다.
