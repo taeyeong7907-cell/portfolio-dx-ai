@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+streamlit
+openai
+langchain
+faiss-cpu
+python-dotenv
+pypdf
