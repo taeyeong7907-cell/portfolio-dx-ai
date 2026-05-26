@@ -47,7 +47,10 @@
 
 ## 7. Visualization
 
-이미지는 `images/` 폴더에 정리 예정입니다.
+| File | Description |
+|---|---|
+| `images/population_heatmap_sinjeong_jamwon.png` | 신정동과 잠원동의 시간대·연령대별 생활인구 패턴 비교 |
+| `images/dashboard_sinjeong_jamwon.png` | 생활인구, 단속건수, 산업 변화 등을 종합 비교한 대시보드 |
 
 ## 8. Limitations
 
