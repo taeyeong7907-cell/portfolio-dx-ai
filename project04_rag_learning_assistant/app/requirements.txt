@@ -1,0 +1,16 @@
+
+streamlit
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+pymupdf
+faiss-cpu
+openai
+pandas
+numpy
+scikit-learn
+pypdf
+python-docx
+python-pptx
+tabulate
