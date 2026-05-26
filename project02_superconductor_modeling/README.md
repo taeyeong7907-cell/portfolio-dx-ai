@@ -30,10 +30,13 @@ Baseline 모델과 개선 모델을 비교하며, RMSE, MAE, R², Accuracy, Prec
 
 ## 5. Key Results
 
-- 회귀 모델에서는 RMSE, MAE, R²를 기준으로 성능을 비교했습니다.
-- 분류 모델에서는 Accuracy, Precision, Recall, F1-score, ROC-AUC를 기준으로 성능을 비교했습니다.
-- 개선 모델이 항상 Baseline보다 우수하지 않다는 점을 확인했습니다.
-- 이 경험을 통해 모델 복잡도보다 평가 기준과 실험 통제가 중요하다는 점을 학습했습니다.
+| Task | Best Model | Main Metrics |
+|---|---|---|
+| Regression | Baseline | RMSE 10.7753, MAE 7.0533, R² 0.9015 |
+| Classification | Baseline | Accuracy 0.9408, F1-score 0.9537, ROC-AUC 0.9808 |
+
+- 개선 모델을 여러 차례 실험했지만, 최종 비교에서는 Baseline이 가장 안정적인 성능을 보였습니다.
+- 이 프로젝트는 “복잡한 모델이 항상 좋은 결과를 내는 것은 아니다”라는 점을 확인한 모델 비교 경험입니다.
 
 ## 6. My Role
 
