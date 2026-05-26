@@ -10,7 +10,7 @@
 
 ## Core Competencies
 
-| 역량 | 설명 | 관련 프로젝트 |
+| Competency | Description | Related Projects |
 |---|---|---|
 | 문제 정의 및 구조화 | 서비스 문제를 데이터 분석 가능한 형태로 전환 | Project 01 |
 | 데이터 기반 의사결정 | 복수 데이터를 결합해 우선순위와 개선 방향 도출 | Project 01, Project 02 |
