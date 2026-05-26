@@ -50,13 +50,12 @@
 
 ## Repository Structure
 
-'''text
+```text
 portfolio-dx-ai/
 ├── project01_parking_demand_analysis/
 ├── project02_superconductor_modeling/
 ├── project03_ai_secretary/
 └── project04_rag_learning_assistant/
-'''
 
 ## Portfolio PDF
 
