@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.zip
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Large files
+*.mp4
+*.mov
