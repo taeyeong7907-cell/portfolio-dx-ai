@@ -48,15 +48,6 @@
 - RAG
 - Hugging Face Spaces
 
-## Repository Structure
-
-```text
-portfolio-dx-ai/
-├── project01_parking_demand_analysis/
-├── project02_superconductor_modeling/
-├── project03_ai_secretary/
-└── project04_rag_learning_assistant/
-
 ## Portfolio PDF
 
 - [Portfolio PDF](./docs/portfolio_pdf/Kim_Taeyeong_DXAI_Portfolio.pdf)
@@ -66,3 +57,13 @@ portfolio-dx-ai/
 - Email: taeyeong7907@gmail.com
 - GitHub: https://github.com/taeyeong7907-cell
 - Notion: 준비 중
+
+## Repository Structure
+
+```text
+portfolio-dx-ai/
+├── project01_parking_demand_analysis/
+├── project02_superconductor_modeling/
+├── project03_ai_secretary/
+└── project04_rag_learning_assistant/
+
